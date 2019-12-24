@@ -1,5 +1,6 @@
-This is to let the reader know which parts to prioritize when evaluating my work.
+Speech carries robust information, such as emotion and cognitive state, that is readily accessible to the human ear. However, because audio is an unstructured form of data, this information must be methodically extracted to be accessible for machine learning. If done successfully, such data can be used for voice technology with great accessibility and a minimal learning curve. As a proof of concept, could I use machine learning to classify a speaker's gender and emotion?
 
+The following is to let the reader know which parts to prioritize when evaluating my work:
 - Part 1 is the most informative and well-documented. I attempted to explain all my thought processes when learning how to analyze audio data. I originally considered using four different datasets, but had to choose one due to the time constraint. I decided on the most accessible and well-balanced dataset.
 - Parts 2a to 2e contain all the different approaches I tried when building classical machine learning models. 
 	- Part 2a is the most well-documented.
