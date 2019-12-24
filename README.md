@@ -1,4 +1,4 @@
-The purpose of this README is to let the reader know which parts to prioritize when evaluating my work.
+This is to let the reader know which parts to prioritize when evaluating my work.
 
 - Part 1 is the most informative and well-documented. I attempted to explain all my thought processes when learning how to analyze audio data. I originally considered using four different datasets, but had to choose one due to the time constraint. I decided on the most accessible and well-balanced dataset.
 - Parts 2a to 2e contain all the different approaches I tried when building classical machine learning models. 
