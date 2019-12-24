@@ -9,9 +9,7 @@ This is to let the reader know which parts to prioritize when evaluating my work
 - Part 4 is where I tested my best-performing models on a new dataset. Unfortunately, they did not perform well and I wrote some possible explanations.
 - Part 5 is the notebook I presented on demo day along with the slides. This is what I used to record the visitors' voices and have my models predict their genders and emotions.
 
-
 Here is the link to the slides I presented on demo day: https://prezi.com/p/trzqgvimdrtz
-
 
 These are the references I used to study how to analyze audio data:
 - https://towardsdatascience.com/getting-to-know-the-mel-spectrogram-31bca3e2d9d0
