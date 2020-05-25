@@ -8,7 +8,7 @@ The following is to let the reader know which parts to prioritize when evaluatin
 	- Parts 2c, 2d, and 2e are not as well-documented due to my attempt to quickly explore other solutions, and the models in these parts performed poorly in comparison.
 - Part 3 contains all the convolutional neural networks I tried. These did not perform as well as the classical models I built in parts 2a and 2b.
 - Part 4 is where I tested my best-performing models on a new dataset. Unfortunately, they did not perform well and I wrote some possible explanations.
-- Part 5 is the notebook I presented on demo day along with the slides. This is what I used to record the visitors' voices and have my models predict their genders and emotions.
+- Part 5 is the notebook I presented on demo day along with the slides. This is what I used to record the visitors' voices and have my models predict their sex and emotions.
 
 Here is the link to the slides I presented on demo day: https://prezi.com/p/trzqgvimdrtz
 
